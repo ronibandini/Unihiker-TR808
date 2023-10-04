@@ -1,0 +1,19 @@
+Song:
+  Tempo: 90
+  Flow:
+    - Verse:  x16
+  Kit:
+    - bassdrum:     BD.WAV
+    - snaredrum:    SD.WAV
+    - clsdhihat:    CH.WAV
+    - openhihat:    OH.WAV
+    - rimshot:      RS.WAV
+    - maracas:      MA.WAV
+
+Verse:
+  - bassdrum:     .X...X..........
+  - snaredrum:    ....X.....X.X...
+  - clsdhihat:    ..X.............
+  - openhihat:    ....X........X..
+  - rimshot:      ..X..X..X..X..X.
+  - maracas:      ...X...X.....X..
